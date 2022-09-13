@@ -1,6 +1,7 @@
 # What's in it?
 
-This repository contains the source code built during the [Mosh Hamedan's](https://www.youtube.com/watch?v=Ke90Tje7VS0) `React` crash course. This project contains features just like available in the shopping cart e.g., adding or removing an item, etc.
+This repository contains the source code built during the [Mosh Hamedan's](https://www.youtube.com/watch?v=Ke90Tje7VS0) `React` crash course. This project contains features just like available in the shopping cart e.g., adding or removing an item, etc. The output of the project is as follows:
+![Screenshot from 2022-09-13 16-51-46](https://user-images.githubusercontent.com/7519716/189893920-9bfc7192-c40f-41f4-9e28-185a16ed6178.png)
 
 ## Available Features
  - Navigation bar
